@@ -1,7 +1,7 @@
-## 👋 G'day, I'm Annie🦄⚡️
+## 👋 G'day, I'm Amin🦄⚡️
 
 
-I'm a designer x developer from 🇦🇺, currently living in 🇨🇦. I work at a [startup](https://usepastel.com) where I wear a lot of hats.
+I'm a web developer x developer from 🇮🇷, currently living in 🇹🇷. I work at a [startup](https://usepastel.com) where I wear a lot of hats.
 I like rainy days and think people are cool ⛈🥰
 
 ### I use these bad boys to make stuff
