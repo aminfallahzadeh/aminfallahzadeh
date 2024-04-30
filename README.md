@@ -1,4 +1,4 @@
-## 👋 G'day, I'm Amin🦄⚡️
+<h1 align="center">Hi 👋, I'm Amin</h1>
 
 
 I'm a web developer x developer from 🇮🇷, currently living in 🇹🇷. I work as a freelancer and have the experience to work for companies in professional teams.
