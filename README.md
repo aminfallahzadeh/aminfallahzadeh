@@ -24,28 +24,17 @@ I like nights and think nights bring productivity 🌙
 [<img alt="Amin on Facebook" src="https://img.shields.io/badge/Facebook%20-%23323330.svg?style=for-the-badge&logo=facebook&logoColor=blue"/>](https://www.facebook.com/amin.dev.tech)
 ---
 
-### You can check my stats here 😊:
+### You can check my stats here 😊: <p align="center"> <img src="https://komarev.com/ghpvc/?username=aminfallahzadeh&label=VISITORS&color=0e75b6&style=flat" alt="aminfallahzadeh" /> </p>
 
 <div align="center">
-
    <img  src="https://github-readme-stats.vercel.app/api?username=aminfallahzadeh&theme=dracula&show_icons=true&locale=en" alt="aminfallahzadeh" height="150"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfallahzadeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfallahzadeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aminfallahzadeh&label=VISITORS&color=0e75b6&style=flat" alt="aminfallahzadeh" /> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminfallahzadeh&" alt="aminfallahzadeh" /></p>
 
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<div/>
 <!--
 **anniebombanie/anniebombanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
