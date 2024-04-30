@@ -26,17 +26,16 @@ I like nights and think nights bring productivity 🌙
 
 ### You can check my stats here 😊:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfallahzadeh&show_icons=true&locale=en&layout=compact" alt="aminfallahzadeh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminfallahzadeh&show_icons=true&locale=en" alt="aminfallahzadeh" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfallahzadeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminfallahzadeh&theme=dracula&show_icons=true&locale=en" alt="aminfallahzadeh" /></p>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aminfallahzadeh&label=VISITORS&color=0e75b6&style=flat" alt="aminfallahzadeh" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminfallahzadeh&" alt="aminfallahzadeh" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfallahzadeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 <!--
 **anniebombanie/anniebombanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
