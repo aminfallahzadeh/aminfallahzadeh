@@ -20,7 +20,7 @@ I like nights and think nights bring productivity 🌙
 ### You can also find me here on the interwebs
 
 [<img alt="Amin on LinkedIn" src="https://img.shields.io/badge/Linked%20In-dedede?style=for-the-badge&logo=linkedin&logoColor=black"/>](www.linkedin.com/in/amin-fallahzadeh)
-
+[<img alt="Amin on Dev.to" src="https://img.shields.io/badge/Dev%20To-20To-dedede?style=for-the-badge&logo=devdotto&logoColor=black"/>](https://dev.to/aminfallahzadeh)
 
 <!--
 **anniebombanie/anniebombanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
