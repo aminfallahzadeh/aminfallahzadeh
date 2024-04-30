@@ -30,7 +30,7 @@ I like nights and think nights bring productivity 🌙
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminfallahzadeh&show_icons=true&locale=en" alt="aminfallahzadeh" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminfallahzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="aminfallahzadeh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminfallahzadeh&theme=dracula&label=Profile%20views&color=0e75b6&style=flat" alt="aminfallahzadeh" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminfallahzadeh&" alt="aminfallahzadeh" /></p>
 
