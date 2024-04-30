@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amin</h1>
 
 
-I'm a web developer x developer from 🇮🇷, currently living in 🇹🇷. I work as a freelancer and have the experience to work for companies in professional teams.
+I'm a web developer x designer currently living in 🇹🇷. I work as a freelancer and have the experience to work for companies in professional teams.
 I like nights and think nights bring productivity 🌙
 
 ### I use these to create:
