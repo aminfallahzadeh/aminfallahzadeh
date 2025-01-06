@@ -28,8 +28,8 @@ I like nights and think nights bring productivity 🌙
 
 <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=aminfallahzadeh&theme=dracula&show_icons=true&locale=en" alt="aminfallahzadeh" height="150"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfallahzadeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminfallahzadeh&layout=compact" height="150" alt="Top Langs"/>
+<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfallahzadeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminfallahzadeh&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Langs"/>
 </div>
 
 <!--
