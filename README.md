@@ -29,7 +29,7 @@ I like nights and think nights bring productivity 🌙
 <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=aminfallahzadeh&theme=dracula&show_icons=true&locale=en" alt="aminfallahzadeh" height="150"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfallahzadeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminfallahzadeh&theme=dracula" alt="aminfallahzadeh" />
+   [![Amin's Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=aminfallahzadeh)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
