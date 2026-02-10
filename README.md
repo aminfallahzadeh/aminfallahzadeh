@@ -21,7 +21,6 @@ I like nights and think nights bring productivity 🌙
 
 [<img alt="Amin on LinkedIn" src="https://img.shields.io/badge/Linked%20In-dedede?style=for-the-badge&logo=linkedin&logoColor=black"/>](https://linkedin.com/in/amin-fallahzadeh)
 [<img alt="Amin on Dev.to" src="https://img.shields.io/badge/Dev%20To-2eceff?style=for-the-badge&logo=devdotto&logoColor=black"/>](https://dev.to/aminfallahzadeh)
-[<img alt="Amin on Facebook" src="https://img.shields.io/badge/Facebook%20-%23323330.svg?style=for-the-badge&logo=facebook&logoColor=blue"/>](https://www.facebook.com/amin.dev.tech)
 ---
 
 ### You can check my stats here 😊: <p align="center"> <img src="https://komarev.com/ghpvc/?username=aminfallahzadeh&label=VISITORS&color=0e75b6&style=flat" alt="aminfallahzadeh" /> </p>
