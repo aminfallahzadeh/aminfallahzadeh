@@ -28,7 +28,7 @@ I like nights and think nights bring productivity 🌙
 
 <div align="center">
    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aminfallahzadeh&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Github Stats" height="150"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminfallahzadeh&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Langs"/>
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aminfallahzadeh&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Langs"/>
 </div>
 
 <!--
